@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(38, 226, 233);
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+   
+}
+ .input-wrapper
+{ 
+  border: 6px solid #141718;
+  background-color: #bdb4bb ;
+
+}
+
+.calc-wrapper {
+  background-color: #bbb8bd;
+  width: 400px;
+  border-radius: 14px;
+  border: 7px solid #101213;
+}
+
+.row {
+  display: flex;
+}
